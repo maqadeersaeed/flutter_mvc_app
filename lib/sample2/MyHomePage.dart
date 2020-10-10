@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_mvc_app/sample2/controller.dart';
+import 'package:flutter_mvc_app/sample2/MyHomeController.dart';
 import 'package:mvc_pattern/mvc_pattern.dart';
 
 class MyHomePage extends StatefulWidget {

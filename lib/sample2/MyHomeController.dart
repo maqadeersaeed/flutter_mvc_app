@@ -1,4 +1,4 @@
-import 'package:flutter_mvc_app/sample2/model.dart';
+import 'package:flutter_mvc_app/sample2/MyHomeModel.dart';
 import 'package:mvc_pattern/mvc_pattern.dart';
 
 class MyHomeController extends ControllerMVC {
